@@ -13,7 +13,7 @@ These are the conventions:
   + **white**: normal
   + **red**: critical
 
-  The thresholds for *optimal*, *normal* and *critical* data points is
+  The thresholds for *optimal*, *normal* and *critical* data points are
   customizable by the user.
 - A separator line (full width, **blue**) can be used to indicate a
   predefined meta-event (like the change of the input channel of the data
